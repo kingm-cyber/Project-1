@@ -1,0 +1,2 @@
+C:\Users\kingm\source\repos\Project-1\2dArrayCalculator\Debug\2dArrayCalculator.exe
+C:\Users\kingm\source\repos\Project-1\2dArrayCalculator\Debug\2dArrayCalculator.pdb
