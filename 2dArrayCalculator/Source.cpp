@@ -305,11 +305,13 @@ int main ()
 
 		cout << "Output: \n" << endl;
 
+		//verifies user option
 		if (userOperation < 1 || userOperation > 5) 
 		{
 			cout << "Error: That is not a valid option! \n" << endl;
 		}
 
+		//switch statement that performs a function based on the user's previous input
 		switch (userOperation)
 		{
 		case 1:
@@ -344,6 +346,7 @@ int main ()
 			exit(1);
 		}
 
+		//asks the user if they would like to run the program again
 		cout << "Would you like to do another operation? (y/n): " << endl;
 		cin >> userChoice;
 		
